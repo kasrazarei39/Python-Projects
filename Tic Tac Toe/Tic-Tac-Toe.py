@@ -24,7 +24,14 @@ def printBoard(board):
 
 
 def isWinner(bo, le):
-    pass
+    return (bo[7] == le and bo[8] == le and bo[9] == le) or \
+           (bo[4] == le and bo[5] == le and bo[6] == le) or \
+           (bo[1] == le and bo[2] == le and bo[3] == le) or \
+           (bo[1] == le and bo[4] == le and bo[7] == le) or \
+           (bo[2] == le and bo[5] == le and bo[8] == le) or \
+           (bo[3] == le and bo[6] == le and bo[9] == le) or \
+           (bo[1] == le and bo[5] == le and bo[9] == le) or \
+           (bo[3] == le and bo[5] == le and bo[7] == le)
 
 
 def playerMove():
@@ -40,7 +47,10 @@ def compMove():
 
 
 def isBoardFull(board):
-    pass
+    if board.count(' ') > 1:
+        return False
+    else:
+        return True
 
 
 def printBoard():
