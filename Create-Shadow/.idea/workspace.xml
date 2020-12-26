@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f3a8fe8-902f-4e9d-b790-f1b4989ce317" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lgnED0s5syb00O0wskfBrg0CKW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.miniproject2_9831031_KasraZarei">
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="image" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="image" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="miniproject2_9831031_KasraZarei" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="image" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miniproject2_9831031_KasraZarei.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.miniproject2_9831031_KasraZarei" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f3a8fe8-902f-4e9d-b790-f1b4989ce317" name="Default Changelist" comment="" />
+      <created>1608027487565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608027487565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608103377582">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="218" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608103377582" />
+    <state width="1771" height="363" key="GridCell.Tab.0.bottom" timestamp="1608103457593">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="363" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1608103457593" />
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1608033240072" />
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.25.1792.1027@0.25.1792.1027" timestamp="1608032143756" />
+    <state width="1771" height="363" key="GridCell.Tab.0.center" timestamp="1608103457592">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="363" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1608103457592" />
+    <state width="1771" height="318" key="GridCell.Tab.0.center/0.25.1792.1026@0.25.1792.1026" timestamp="1608033240072" />
+    <state width="1771" height="318" key="GridCell.Tab.0.center/0.25.1792.1027@0.25.1792.1027" timestamp="1608032143755" />
+    <state width="1771" height="363" key="GridCell.Tab.0.left" timestamp="1608103457592">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="363" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1608103457592" />
+    <state width="1771" height="318" key="GridCell.Tab.0.left/0.25.1792.1026@0.25.1792.1026" timestamp="1608033240071" />
+    <state width="1771" height="318" key="GridCell.Tab.0.left/0.25.1792.1027@0.25.1792.1027" timestamp="1608032143754" />
+    <state width="1771" height="363" key="GridCell.Tab.0.right" timestamp="1608103457593">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="363" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1608103457593" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right/0.25.1792.1026@0.25.1792.1026" timestamp="1608033240072" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right/0.25.1792.1027@0.25.1792.1027" timestamp="1608032143755" />
+    <state x="405" y="196" key="SettingsEditor" timestamp="1608103328754">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1608103328754" />
+    <state x="573" y="389" key="com.intellij.ide.util.TipDialog" timestamp="1608103283326">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="389" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1608103283326" />
+  </component>
+</project>
