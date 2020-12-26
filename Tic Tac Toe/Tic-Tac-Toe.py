@@ -24,14 +24,11 @@ def printBoard(board):
 
 
 def isWinner(bo, le):
-    return (bo[7] == le and bo[8] == le and bo[9] == le) or \
-           (bo[4] == le and bo[5] == le and bo[6] == le) or \
-           (bo[1] == le and bo[2] == le and bo[3] == le) or \
-           (bo[1] == le and bo[4] == le and bo[7] == le) or \
-           (bo[2] == le and bo[5] == le and bo[8] == le) or \
-           (bo[3] == le and bo[6] == le and bo[9] == le) or \
-           (bo[1] == le and bo[5] == le and bo[9] == le) or \
-           (bo[3] == le and bo[5] == le and bo[7] == le)
+    return (bo[7] == le and bo[8] == le and bo[9] == le) or (bo[4] == le and bo[5] == le and bo[6] == le) or (
+            bo[1] == le and bo[2] == le and bo[3] == le) or (bo[1] == le and bo[4] == le and bo[7] == le) or (
+                   bo[2] == le and bo[5] == le and bo[8] == le) or (
+                   bo[3] == le and bo[6] == le and bo[9] == le) or (
+                   bo[1] == le and bo[5] == le and bo[9] == le) or (bo[3] == le and bo[5] == le and bo[7] == le)
 
 
 def playerMove():
@@ -89,7 +86,10 @@ def compMove():
 
 
 def selectRandom(li):
-    pass
+    import random
+    ln = len(li)
+    r = random.randrange(0, ln)
+    return li[r]
 
 
 def isBoardFull(board):
@@ -99,9 +99,39 @@ def isBoardFull(board):
         return True
 
 
-def printBoard():
-    pass
-
-
 def main():
-    pass
+    print('Welcome to Tic Tac Toe!')
+    printBoard(board)
+
+    while not (isBoardFull(board)):
+        if not (isWinner(board, 'O')):
+            playerMove()
+            printBoard(board)
+        else:
+            print('Sorry, O\'s won this time!')
+            break
+
+        if not (isWinner(board, 'X')):
+            move = compMove()
+            if move == 0:
+                print('Tie Game!')
+            else:
+                insertLetter('O', move)
+                print('Computer placed an \'O\' in position', move, ':')
+                printBoard(board)
+        else:
+            print('X\'s won this time! Good Job!')
+            break
+
+    if isBoardFull(board):
+        print('Tie Game!')
+
+
+while True:
+    answer = input('Do you want to play again? (Y/N)')
+    if answer.lower() == 'y' or answer.lower == 'yes':
+        board = [' ' for x in range(10)]
+        print('-----------------------------------')
+        main()
+    else:
+        break
